@@ -1,4 +1,4 @@
 # Leaflet.jsのサンプルリポジトリ
 
 ## フォルダの説明
-- Mapの表示
+- sample1 Mapの表示
