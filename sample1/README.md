@@ -2,7 +2,7 @@
 
 ## 環境
 - node v8.7.0
-- npm 5.4.2
+- npm 5.5.1
 
 ## 起動方法
 ` npm start
